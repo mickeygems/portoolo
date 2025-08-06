@@ -11,7 +11,6 @@
 - Fast loads.
 - SEO-optimized.
 
-<img src="assets/images/lighthouse.png" alt="lighthouse report with 100% scores">
 
 
 ### Cloning the Repository.
